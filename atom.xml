@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://betaopen.github.io</id>
+    <id>https://https://betaopen.github.io/OpenSource</id>
     <title>BetaOpen</title>
-    <updated>2020-11-02T10:19:51.365Z</updated>
+    <updated>2020-11-02T10:25:49.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://betaopen.github.io"/>
-    <link rel="self" href="https://betaopen.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://betaopen.github.io/OpenSource"/>
+    <link rel="self" href="https://https://betaopen.github.io/OpenSource/atom.xml"/>
     <subtitle>OpenSouce</subtitle>
-    <logo>https://betaopen.github.io/images/avatar.png</logo>
-    <icon>https://betaopen.github.io/favicon.ico</icon>
+    <logo>https://https://betaopen.github.io/OpenSource/images/avatar.png</logo>
+    <icon>https://https://betaopen.github.io/OpenSource/favicon.ico</icon>
     <rights>All rights reserved 2020, BetaOpen</rights>
     <entry>
         <title type="html"><![CDATA[开始]]></title>
-        <id>https://betaopen.github.io/post/kai-shi/</id>
-        <link href="https://betaopen.github.io/post/kai-shi/">
+        <id>https://https://betaopen.github.io/OpenSource/post/kai-shi/</id>
+        <link href="https://https://betaopen.github.io/OpenSource/post/kai-shi/">
         </link>
         <updated>2020-11-02T10:13:50.000Z</updated>
         <content type="html"><![CDATA[<p>测试</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://betaopen.github.io/post/hello-gridea/</id>
-        <link href="https://betaopen.github.io/post/hello-gridea/">
+        <id>https://https://betaopen.github.io/OpenSource/post/hello-gridea/</id>
+        <link href="https://https://betaopen.github.io/OpenSource/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
